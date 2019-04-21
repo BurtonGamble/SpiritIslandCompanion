@@ -1,0 +1,38 @@
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\bin\Release\SpiritIslandCompanion.exe.config
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\bin\Release\SpiritIslandCompanion.exe
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\bin\Release\SpiritIslandCompanion.pdb
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmCardView.g.cs
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmNewGame.g.cs
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\MainWindow.g.cs
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\App.g.cs
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion_MarkupCompile.cache
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion_MarkupCompile.lref
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmCardView.baml
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmNewGame.baml
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\MainWindow.baml
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.g.resources
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.Properties.Resources.resources
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.csproj.GenerateResource.cache
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.csproj.CoreCompileInputs.cache
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.exe
+C:\Users\voydangel\OneDrive\Documents\Visual Studio 2017\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.pdb
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\bin\Release\SpiritIslandCompanion.exe.config
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\bin\Release\SpiritIslandCompanion.exe
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\bin\Release\SpiritIslandCompanion.pdb
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmAbout.g.cs
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmCardView.g.cs
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmNewGame.g.cs
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\MainWindow.g.cs
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\App.g.cs
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion_MarkupCompile.cache
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion_MarkupCompile.lref
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmAbout.baml
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmCardView.baml
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\FrmNewGame.baml
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\MainWindow.baml
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.g.resources
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.Properties.Resources.resources
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.csproj.GenerateResource.cache
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.csproj.CoreCompileInputs.cache
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.exe
+C:\Users\voydangel\OneDrive\Projects\SpiritIslandCompanion\SpiritIslandCompanion\obj\Release\SpiritIslandCompanion.pdb
